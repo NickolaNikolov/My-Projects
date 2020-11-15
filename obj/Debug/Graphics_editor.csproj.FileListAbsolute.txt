@@ -1,0 +1,20 @@
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.exe
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\bin\Debug\Graphics_editor.pdb
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csprojAssemblyReference.cache
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Design_editor.resources
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.cache
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.csproj.CoreCompileInputs.cache
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.exe
+E:\Visual Studio shit\Graphics_editor\Graphics_editor\obj\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.csprojAssemblyReference.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.csproj.GenerateResource.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.csproj.CoreCompileInputs.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.pdb

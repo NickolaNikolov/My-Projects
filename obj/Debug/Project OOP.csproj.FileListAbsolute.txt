@@ -1,0 +1,49 @@
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\Graphics_editor\bin\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Project OOP.csprojAssemblyReference.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\Graphics_editor\obj\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\bin\Debug\Graphics_editor.exe.config
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\bin\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\bin\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Project OOP.csprojAssemblyReference.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Graphics_editor\obj\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe.config
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csprojAssemblyReference.cache
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe.config
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.pdb
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csprojAssemblyReference.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csproj.CoreCompileInputs.cache
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.exe
+C:\Users\nikio\Desktop\НИКОЛА\Курсови работи\ВТОРИ КУРС\ООП Курсова работа\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.pdb
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe.config
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.exe
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\bin\Debug\Graphics_editor.pdb
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csprojAssemblyReference.cache
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Design_editor.resources
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.Properties.Resources.resources
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Project OOP.csproj.GenerateResource.cache
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.exe
+C:\Users\Niki\Desktop\НИКОЛА\Университет\Курсови работи\ВТОРИ КУРС\ООП\Проектът\TheFinalProject\Project OOP\obj\Debug\Graphics_editor.pdb
